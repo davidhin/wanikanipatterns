@@ -1,0 +1,903 @@
+vocab,pattern_name,english,japanese
+学院,〜学院,音楽学院,music academy
+学院,〜学院,文化学院,Bunka Gakuin (vocational school)
+学院,〜学院,ソフトウェア学院,software academy
+足し算,足し算を〜,足し算を学ぶ,to learn addition
+足し算,足し算を〜,足し算を教える,to teach addition
+足し算,足し算を〜,足し算をする,to do addition
+進行,進行が〜,進行がストップする,the progress stops
+進行,進行が〜,進行が進む,to progress
+進行,進行が〜,進行が止まる,the progress stops
+進行,進行〜,進行中,in progress
+進行,進行〜,進行形,the progressive form
+進行,進行〜,進行方向,direction of movement
+進行,〜の進行,ゲームの進行,progress of the game
+進行,〜の進行,ガンの進行,cancer progression
+進行,〜の進行,病気の進行,disease progression
+進行,進行を〜,進行を食い止める,to stave off progression
+進行,進行を〜,進行を止める,to stop progression
+進行,進行を〜,進行をする,to make an event progress
+農業,農業を〜,農業を行う,to carry out farming
+農業,農業を〜,農業をやる,to do farming
+農業,農業を〜,農業をする,to do farming
+ちょっと,ちょっと〜,ちょっとちがう,a little different
+ちょっと,ちょっと〜,ちょっとむずかしい,a little difficult
+ちょっと,ちょっと〜,ちょっと考える,to think a little
+路地,路地を〜,路地を曲がる,to turn down the alley
+路地,路地を〜,路地を歩く,to walk down the alley
+路地,路地を〜,路地を入っていく,to go into an alley
+路地,路地に〜,路地に入る,to enter an alley
+路地,路地に〜,路地に立つ,to stand in the alley
+路地,路地に〜,路地に出る,to reach the alley
+高度,高度な〜,高度なテクニック,an advanced technique
+高度,高度な〜,高度な研究,sophisticated research
+高度,高度な〜,高度なスキル,a high-level skill
+高度,高度〜,高度10000メートル,"altitude of 10,000 meters"
+高度,高度〜,高度3万3000フィート,"altitude of 33,000 feet"
+高度,高度を〜,高度を上げる,to elevate its altitude
+高度,高度を〜,高度を下げる,to lower its altitude
+高度,高度が〜,高度が上がる,altitude increases
+高度,高度が〜,高度が下がる,altitude decreases
+回答,回答〜,回答者,respondent
+回答,回答〜,回答中,in the process of answering
+回答,回答〜,回答数,number of responses
+回答,回答を〜,回答を見る,to look at the reply
+回答,回答を〜,回答をする,to answer
+回答,回答を〜,回答をいただく,to receive an answer
+回答,回答が〜,回答が来る,the response comes
+回答,回答が〜,回答がある,there is a response
+回答,回答が〜,回答が出る,the answer is shown
+回答,〜の回答,他の回答,other answers
+回答,〜の回答,No.5の回答,the answer to number five
+回答,〜の回答,アンケートの回答,questionnaire response
+回答,ご回答,ご回答,response
+算数,算数を〜,算数をする,to do arithmetic
+算数,算数を〜,算数を教える,to teach arithmetic
+算数,算数を〜,算数を学ぶ,to learn arithmetic
+算数,算数の〜,算数のテスト,arithmetic test
+算数,算数の〜,算数の足し算,arithmetic addition
+算数,算数の〜,算数のノート,arithmetic notes
+助手,助手を〜,助手をつとめる,to work as an assistant
+助手,助手を〜,助手を見る,to look at an assistant
+助手,助手を〜,助手をする,to serve as an assistant
+早速,早速〜,早速やる,to do right away
+早速,早速〜,早速作る,to make right away
+早速,早速〜,早速買う,to buy right away
+心配,心配を〜,心配をかける,to make someone worry
+心配,心配を〜,心配をしていない,to not be worrying
+心配,心配を〜,心配をする,to worry
+自転車,自転車で〜,自転車で出かける,to go out on a bicycle
+自転車,自転車で〜,自転車で行く,to go on a bicycle
+自転車,自転車で〜,自転車で走る,to ride a bicycle
+自転車,自転車に〜,自転車にまたがる,to straddle a bicycle
+自転車,自転車に〜,自転車に乗る,to ride on a bicycle
+自転車,自転車に〜,自転車に乗れる,to be able to ride a bicycle
+自転車,自転車を〜,自転車を買う,to buy a bicycle
+自転車,自転車を〜,自転車を止める,to stop a bicycle
+自転車,自転車を〜,自転車をこぐ,to pedal a bicycle
+苦い,苦い〜,苦いコーヒー,bitter coffee
+苦い,苦い〜,苦い思い出,bitter memory
+苦い,苦い〜,苦い思い,bitter experience
+パン,パンを〜,パンを食べる,to eat bread
+パン,パンを〜,パンを作る,to make bread
+パン,パンを〜,パンを買う,to buy bread
+パン,パン〜,パン食,eating bread
+パン,パン〜,パン作り,making bread
+パン,パン〜,パン屋,a bakery
+パン,〜パン,手作りパン,homemade bread
+パン,〜パン,ライ麦パン,rye bread
+パン,〜パン,メロンパン,melon-shaped bread
+パン,〜のパン,手作りのパン,homemade bread
+パン,〜のパン,五つのパン,five bread rolls
+パン,〜のパン,朝食のパン,bread for breakfast
+パン,パンの〜,パンの生地,bread dough
+パン,パンの〜,パンの耳,bread crust
+パン,パンに〜,パンにつける,to put something on bread
+パン,パンに〜,パンにはさむ,to put something between bread
+パン,パンに〜,パンにぬる,to spread something on bread
+ビル,〜ビル, オフィスビル,an office building
+ビル,〜ビル,ターミナルビル,a terminal building
+ビル,〜ビル,本社ビル,the building in which the head office is located
+ビル,ビルの〜,ビルの間,between buildings
+ビル,ビルの〜,ビルの谷間,a gap between buildings
+ビル,ビルの〜,ビルの地下,the basement of a building
+ビル,ビルが〜,ビルがある,there is a building
+ビル,ビルが〜,ビルが見える,"buildings are visible, can see buildings"
+ビル,ビルに〜,ビルに入る,to enter a building
+ビル,ビルに〜,ビルにある,to be in a building
+ビル,ビルに〜,ビルにいる,to be in a building
+千葉,千葉に〜,千葉に行く,to go to Chiba
+千葉,千葉に〜,千葉にいる,to be in Chiba
+千葉,千葉に〜,千葉にある,to be in Chiba
+千葉,千葉の〜,千葉の店,shop in Chiba
+千葉,千葉の〜,千葉の人,person of Chiba
+千葉,千葉の〜,千葉の名物,specialty of Chiba
+親友,〜の親友,本当の親友,one's real close friend
+親友,〜の親友,大の親友,extremely close friend
+親友,〜の親友,自分の親友,one's own close friend
+親友,親友の〜,親友の顔,face of a close friend
+親友,親友の〜,親友の一人,one of one's close friends
+親友,親友の〜,親友のすがた,the figure of one's close friend
+親友,親友に〜,親友に言う,to say to a close friend
+親友,親友に〜,親友になれる,able to become close friends
+親友,親友に〜,親友になる,to become close friends
+集金,〜の集金,毎月の集金,monthly payment collection
+集金,〜の集金,九月の集金,payment collection for September
+集金,〜の集金,ガスの集金,gas payment collection
+集金,集金に〜,集金に回る,to go around collecting money
+集金,集金に〜,集金に行く,to go to collect money
+集金,集金に〜,集金に来る,to come to collect money
+集中,集中を〜,集中を切らす,to run out of concentration
+集中,集中を〜,集中をはかる,"to plan a focus, to plan a consolidation"
+集中,集中を〜,集中をする,to concentrate
+集中,集中〜,集中レッスン,intensive lessons
+集中,集中〜,集中力,ability to concentrate
+集中,集中〜,集中化,centralization
+調子,調子が〜,調子がいい,in good condition
+調子,調子が〜,調子がおかしい,condition is strange
+調子,調子が〜,調子が出る,to hit one's stride
+調子,調子を〜,調子を上げる,to improve the condition
+調子,調子を〜,調子をくずす,to have the condition of something break down
+調子,調子を〜,調子を保つ,to maintain one's condition
+調子,〜調子,きつい調子,a harsh tone
+調子,〜調子,この調子,at this rate
+調子,〜調子,強い調子,strong tone
+調子,〜の調子,おなかの調子,stomach condition
+調子,〜の調子,パソコンの調子,the computer's condition
+調子,〜の調子,体の調子,body condition
+対立,〜の対立,両者の対立,conflict between the two parties
+対立,〜の対立,イデオロギーの対立,conflict between ideologies
+対立,〜の対立,文化の対立,cultural conflict
+対立,対立を〜,対立を生む,to produce a confrontation
+対立,対立を〜,対立を生み出す,to bring forth a confrontation
+対立,対立を〜,対立をする,to have a confrontation
+対立,対立が〜,対立が生まれる,a conflict is born
+対立,対立が〜,対立がつづく,the conflict continues
+対立,対立が〜,対立が生じる,a conflict arises
+曲線,曲線を〜,曲線をかく,to draw a curve
+曲線,曲線を〜,曲線を見せる,to show a curve
+曲線,曲線を〜,曲線を引く,to draw a curved line
+要求,要求を〜,要求を飲む,to unwillingly agree to someone's demand
+要求,要求を〜,要求をする,to make a demand
+要求,要求を〜,要求を出す,to issue a demand
+要求,〜の要求,ユーザーの要求,"user demands, user requirements"
+要求,〜の要求,自分の要求,one's own demand
+要求,〜の要求,住民の要求,resident's demand
+要求,要求に〜,要求にマッチする,to meet the demand for something
+要求,要求に〜,要求に答える,to respond to a demand
+要求,要求に〜,要求にしたがう,to comply with a request
+開発,〜の開発,システムの開発,system development
+開発,〜の開発,車の開発,car development
+開発,〜の開発,アプリケーションの開発,application development
+開発,開発を〜,開発を進める,to proceed with development
+開発,開発を〜,開発をスタートする,to start development
+開発,開発を〜,開発を行う,to carry out development
+〜病,〜病,うつ病,depression
+〜病,〜病,大病,serious illness
+〜病,〜病,重病,serious illness
+電鉄,〜電鉄,南海電鉄,Nankai Electric Railway
+電鉄,〜電鉄,日立電鉄,Hitachi Electric Railway
+電鉄,〜電鉄,京王電鉄,Keio Electric Railway
+強調,強調を〜,強調をする,to emphasize
+強調,強調を〜,強調を行う,to carry out emphasis of something
+強調,強調を〜,強調を表す,to express emphasis
+強調,〜の強調,目の強調,emphasis on the eyes
+強調,〜の強調,文字の強調,emphasizing text
+強調,〜の強調,プロセスの強調,emphasis on process
+終了,〜終了,ゲーム終了,game over
+終了,〜終了,シーズン終了,end of season
+終了,〜終了,レース終了,end of race
+進化,〜の進化,人間の進化,human evolution
+進化,〜の進化,社会の進化,evolution of society
+進化,〜の進化,コンピューターの進化,evolution of computers
+進化,進化の〜,進化のメカニズム,evolutionary mechanism
+進化,進化の〜,進化のプロセス,evolutionary process
+進化,進化の〜,進化のスピード,speed of evolution
+進化,進化を〜,進化をする,to evolve
+進化,進化を〜,進化をとげる,to achieve progress
+進化,進化を〜,進化をもたらす,to bring about evolution
+顔付き,顔付きが〜,顔付きがちがう,someone's facial expression is different
+顔付き,顔付きが〜,顔付きがかわる,someone's facial expression changes
+顔付き,顔付きが〜,顔付きが生き生きする,to have a lively facial expression
+顔付き,顔付きを〜,顔付きを見る,to look at someone's facial expression
+顔付き,顔付きを〜,顔付きを思い出す,"to recall someone's facial features, to recall someone's facial expression"
+顔付き,顔付きを〜,顔付きをする,to make a facial expression
+目医者,目医者を〜,目医者を調べる,to look up an eye doctor
+目医者,目医者を〜,目医者をさがす,to search for an eye doctor
+目医者,目医者を〜,目医者を回る,to go visit various eye doctors
+目医者,目医者から〜,目医者から言われる,to be told by an eye doctor
+目医者,目医者から〜,目医者からもどる,to return from the eye doctor
+目医者,目医者から〜,目医者からもらう,to receive from an eye doctor
+目医者,目医者に〜,目医者にいる,to be at the eye doctor
+目医者,目医者に〜,目医者に行く,to go to the eye doctor
+目医者,目医者に〜,目医者に聞く,to ask an eye doctor
+顔,顔を〜,顔を出す,to show one's face
+顔,顔を〜,顔を上げる,to raise one's head
+顔,顔を〜,顔を見る,to look at someone's face
+顔,顔が〜,顔が小さい,face is small
+顔,顔が〜,顔が赤い,face is red
+顔,顔が〜,顔が見える,can see someone's face
+顔,顔に〜,顔に出る,to show on one's face
+顔,顔に〜,顔に当たる,something hits one's face
+顔,顔に〜,顔にかかる,to hang over one's face
+顔,〜の顔,男の顔,man's face
+顔,〜の顔,人の顔,a person's face
+顔,〜の顔,自分の顔,one's own face
+農場,農場で〜,農場で作る,to make at a farm
+農場,農場で〜,農場ではたらく,to work at a farm
+農場,農場で〜,農場でそだてる,"to rear on a farm, to cultivate on a farm"
+農場,農場を〜,農場を作る,to build a farm
+農場,農場を〜,農場を買う,to buy a farm
+農場,農場を〜,農場を持つ,to have a farm
+農場,農場の〜,農場の話,farm talk
+農場,農場の〜,農場のしごと,work on the farm
+農場,農場の〜,農場の牛,cow on a farm
+農場,農場に〜,農場に行く,to go to the farm
+農場,農場に〜,農場にいる,to be at a farm
+農場,農場に〜,農場にもどる,to return to the farm
+速い,〜が速い,足が速い,to be quick on one's feet
+速い,〜が速い,スピードが速い,speed is fast
+速い,速い〜,速いペース,fast pace
+速い,速い〜,速いスピード,fast speed
+速い,速い〜,速いテンポ,fast tempo
+フランス語,フランス語で〜,フランス語で話す,to speak in French
+フランス語,フランス語で〜,フランス語で言う,to say in French
+フランス語,フランス語で〜,フランス語で話しかける,to speak to someone in French
+フランス語,フランス語を〜,フランス語を話す,to speak French
+フランス語,フランス語を〜,フランス語を教える,to teach French
+フランス語,フランス語を〜,フランス語を使う,to use French
+フランス語,フランス語の〜,フランス語の学校,French language school
+フランス語,フランス語の〜,フランス語の先生,French teacher
+フランス語,フランス語の〜,フランス語のアクセント,French accent
+青葉,青葉の〜,青葉のにおい,the smell of greenery
+青葉,青葉の〜,青葉の下,underneath the greenery
+青葉,青葉の〜,青葉の森,"forest of greenery, Aoba Forest (in Sendai)"
+大学院,大学院の〜,大学院の入学,"to be admitted to graduate school, to enroll in graduate school"
+大学院,大学院の〜,大学院の学生,graduate student
+大学院,大学院の〜,大学院の研究,graduate research
+大学院,大学院に〜,大学院に行く,to go to graduate school
+大学院,大学院に〜,大学院に進む,to advance to graduate school
+大学院,大学院に〜,大学院に入る,"to get into graduate school, to enter graduate school"
+頭,頭に〜,頭に入れる,"to put into one's head, to keep in mind"
+頭,頭に〜,頭にのせる,to put on one's head
+頭,頭に〜,頭に入る,to get into one's head
+頭,頭が〜,頭がくらくらする,"to feel light in the head, to feel dizzy"
+頭,頭が〜,頭が下がる,"to be greatly impressed, to take one's hat off to"
+頭,頭が〜,頭がいい,to be intelligent
+頭,頭を〜,頭を下げる,"to lower one's head, to bow"
+頭,頭を〜,頭をなでる,to rub one's head
+頭,頭を〜,頭をかかえる,to be at a wit's end
+重い,〜が重い,足が重い,one's legs feel heavy
+重い,〜が重い,体が重い,body is heavy
+重い,〜が重い,気が重い,be depressed
+重い,重い〜,重い口,slow speech
+重い,重い〜,重い足どり,walk with heavy steps
+重い,重い〜,重い物,heavy thing
+病院,病院で〜,病院ではたらく,to work at a hospital
+病院,病院で〜,病院で受ける,to receive at the hospital
+病院,病院で〜,病院で見てもらう,to be seen at the hospital
+病院,病院に〜,病院に来る,to come to the hospital
+病院,病院に〜,病院に入院する,to be hospitalized
+病院,病院に〜,病院に行く,to go to the hospital
+病院,〜病院,大学病院,university hospital
+病院,〜病院,市立病院,municipal hospital
+病院,〜病院,中央病院,central hospital
+入院,〜の入院,今回の入院,this hospitalization
+入院,〜の入院,母の入院,mother's hospitalization
+入院,〜の入院,前回の入院,last hospitalization
+入院,ご入院〜,ご入院なさる,to be hospitalized
+入院,ご入院〜,ご入院中,while hospitalized
+入院,ご入院〜,ご入院される,to be hospitalized
+入院,入院を〜,入院を決める,to decide on hospitalization
+入院,入院を〜,入院をすすめる,to recommend hospitalization
+入院,入院を〜,入院をする,to be hospitalized
+入院,入院〜,入院バッグ,hospital bag
+入院,入院〜,入院中,while hospitalized
+入院,入院〜,入院生活,life while hospitalized
+しかし,しかし〜,しかし、チャンスはまだある,however there's still a chance
+しかし,しかし〜,しかし、今はムリだ,however it's impossible right now
+しかし,しかし〜,しかし、時間がなかった,however there was no time
+工業,工業〜,工業化,industrialization
+工業,工業〜,工業高校,technical high school
+工業,工業〜,工業用水,water for industrial use
+親しい,〜と親しい,ピカソと親しい,to be close with Picasso
+親しい,〜と親しい,小林さんと親しい,to be close with Mr. Kobayashi
+親しい,〜と親しい,母と親しい,to be close with one's mother
+親しい,親しい〜,親しい人,a close person
+親しい,親しい〜,親しい相手,close partner
+親しい,親しい〜,親しい友人,close friend
+日本語,日本語の〜,日本語のテキスト,Japanese textbook
+日本語,日本語の〜,日本語の発音,Japanese pronunciation
+日本語,日本語の〜,日本語の先生,Japanese teacher
+日本語,日本語を〜,日本語を話す,to speak Japanese
+日本語,日本語を〜,日本語を教える,to teach Japanese
+日本語,日本語を〜,日本語を使う,to use Japanese
+日本酒,日本酒を〜,日本酒を買う,to buy Japanese style alcohol
+日本酒,日本酒を〜,日本酒をもらう,to receive Japanese style alcohol
+日本酒,日本酒を〜,日本酒を飲む,to drink Japanese style alcohol
+漢字,漢字を〜,漢字を当てる,to guess the kanji correctly
+漢字,漢字を〜,漢字を使う,to use kanji
+漢字,漢字を〜,漢字を用いる,to use kanji
+漢字,漢字〜,漢字テスト,kanji test
+漢字,漢字〜,漢字クイズ,kanji quiz
+漢字,漢字〜,漢字ドリル,kanji drills
+親切,ご親切〜,ご親切にどうも,thank you for your kindness
+親切,ご親切〜,ご親切に,kindly
+親切,ご親切〜,ご親切にありがとう,thank you for your kindness
+親切,親切に〜,親切にしてくれる,to be treated with kindness
+親切,親切に〜,親切にする,to treat someone with kindness
+親切,親切に〜,親切に教える,"to kindly teach someone, to kindly tell someone"
+親切,親切な〜,親切なアドバイス,kind advice
+親切,親切な〜,親切な友人,a kind friend
+親切,親切な〜,親切な人,kind person
+台所,台所で〜,台所で作る,to make in the kitchen
+台所,台所で〜,台所で飲む,to drink something in the kitchen
+台所,台所で〜,台所で使う,to use in the kitchen
+台所,台所の〜,台所の戸,kitchen door
+台所,台所の〜,台所のテーブル,kitchen table
+台所,台所の〜,台所のドア,door of the kitchen
+台所,台所に〜,台所に立つ,to stand in the kitchen
+台所,台所に〜,台所にいる,to be in the kitchen
+台所,台所に〜,台所に行く,to go to the kitchen
+研究室,研究室に〜,研究室にいる,to be in the laboratory
+研究室,研究室に〜,研究室にある,to be in the laboratory
+研究室,研究室に〜,研究室に行く,to go to the laboratory
+言語,言語を〜,言語を用いる,to use language
+言語,言語を〜,言語を学ぶ,to learn a language
+言語,言語を〜,言語を使う,to use language
+言語,〜の言語,他の言語,another language
+言語,〜の言語,一つの言語,one language
+言語,〜の言語,世界の言語,world languages
+最後,最後まで〜,最後まで見る,to watch until the end
+最後,最後まで〜,最後までいる,to stay until the end
+最後,最後まで〜,最後まで聞く,to listen until the end
+最後,最後の〜,最後のページ,last page
+最後,最後の〜,最後の年,the last year of something
+最後,最後の〜,最後のチャンス,last chance
+最後,最後に〜,最後にする,to do at the end
+最後,最後に〜,最後になる,to become the last
+最後,最後に〜,最後に言う,to say at the end
+最終,最終〜,最終電車,the last train of the day
+最終,最終〜,最終回,the last episode of a TV series
+最終,最終〜,最終日,the last day
+終点,〜の終点,バスの終点,the last stop of the bus
+終点,〜の終点,電車の終点,the last train stop
+終点,〜の終点,市電の終点,the last trolley stop
+葉,葉を〜,葉をつける,to put on leaves
+葉,葉を〜,葉を食べる,to eat leaves
+葉,葉を〜,葉を広げる,to spread its leaves
+葉,〜の葉,ヤシの葉,palm fronds
+葉,〜の葉,ミントの葉,mint leaf
+葉,〜の葉,タバコの葉,tobacco leaf
+軽い,軽い〜,軽い物,light thing
+軽い,軽い〜,軽い足どり,light steps
+軽い,軽い〜,軽い食事,light meal
+軽い,〜が軽い,口が軽い,have a loose tongue
+軽い,〜が軽い,体が軽い,have a light body weight
+軽い,〜が軽い,心が軽い,have a light heart
+線,線を〜,線をなぞる,to trace a line
+線,線を〜,線をかく,to draw a line
+線,線を〜,線を引く,to draw a line
+線,〜の線,体の線,line of the body
+線,〜の線,ピンクの線,pink line
+線,〜の線,あごの線,line of the jaw
+楽しみ,楽しみに〜,楽しみにする,to look forward to something
+楽しみ,楽しみに〜,楽しみにまつ,to wait in anticipation
+楽しみ,楽しみに〜,楽しみになる,to become something to look forward to
+楽しみ,〜の楽しみ,最近の楽しみ,a recent enjoyment
+楽しみ,〜の楽しみ,自分の楽しみ,one's own enjoyment
+楽しみ,〜の楽しみ,一番の楽しみ,"greatest delight, looking forward to the most"
+楽しみ,楽しみを〜,楽しみを見つける,to find enjoyment
+楽しみ,楽しみを〜,楽しみをもたらす,to bring about pleasure
+楽しみ,楽しみを〜,楽しみをくれる,to get enjoyment from something
+楽しみ,お楽しみ,お楽しみ,"something to look forward to, enjoyment"
+運がいい,〜は運がいい,今日は運がいい,lucky today
+運がいい,〜は運がいい,それは運がいい,that's lucky
+運がいい,〜は運がいい,私は運がいい,I'm lucky
+〜向け,〜向け,小学生向け,intended for elementary school children
+〜向け,〜向け,中学生向け,intended for middle school children
+〜向け,〜向け,大人向け,intended for adults
+山道,山道を〜,山道を走行する,to drive on a mountain road
+山道,山道を〜,山道を歩く,to walk along a mountain path
+山道,山道を〜,山道を走る,to run on the mountain road
+山道,山道に〜,山道に出る,"to go out on a mountain road, to reach the mountain road"
+山道,山道に〜,山道にさしかかる,to approach the mountain road
+山道,山道に〜,山道に入る,to enter the mountain road
+近所,ご近所〜,ご近所づきあい,neighborly relations
+近所,ご近所〜,ご近所さん,neighbor
+近所,ご近所〜,ご近所のネコ,neighborhood cat
+近所,近所に〜,近所に住む,to live in the neighborhood
+近所,近所に〜,近所にある,to be in the neighborhood
+近所,近所に〜,近所にできる,to be built in the neighborhood
+近所,近所の〜,近所の人,a neighbor
+近所,近所の〜,近所のスーパー,neighborhood supermarket
+近所,近所の〜,近所の家,home in the neighborhood
+新聞,新聞に〜,新聞に出る,to appear in the newspaper
+新聞,新聞に〜,新聞につつむ,to wrap in newspaper
+新聞,新聞に〜,新聞にのる,to appear in the newspaper
+新聞,新聞を〜,新聞を見る,to look at a newspaper
+新聞,新聞を〜,新聞を買う,to buy a newspaper
+新聞,新聞を〜,新聞を広げる,to spread a newspaper
+次,次は〜,次はする,to do something next time
+次,次は〜,次は行く,to go next time
+次,次は〜,次は見る,to see next time
+次,次の〜,次のページ,the next page
+次,次の〜,次のとおり,as follows
+次,次の〜,次のステップ,the next step
+次,次へ〜,次へクリックする,to click to the next
+次,次へ〜,次へつながる,"to be linked to the next, to lead to the next"
+次,次へ〜,次へすすむ,to move on to the next step
+番号札,番号札を〜,番号札をもらう,to get a numbered ticket
+番号札,番号札を〜,番号札をわたす,to hand over a number tag
+番号札,番号札を〜,番号札をとる,to take a number tag
+次々,次々〜,次々作る,to make one by one
+次々,次々〜,次々生まれる,to be born one after another
+次々,次々〜,次々出る,to leave one by one
+次々,次々と〜,次々とクリアする,to clear one after another
+次々,次々と〜,次々と出てくる,to emerge one after another
+次々,次々と〜,次々と決まる,to be decided one after another
+次々,次々に〜,次々に出ていく,to exit one after another
+次々,次々に〜,次々に入る,to enter one after another
+次々,次々に〜,次々に作る,to make one after another
+一ヶ所,一ヶ所〜,一ヶ所だけ,just one place
+一ヶ所,一ヶ所〜,一ヶ所ミスする,to make a mistake in one spot
+一ヶ所,一ヶ所〜,一ヶ所直す,to correct one spot
+開業,開業を〜,開業を知らせる,to announce a new business
+開業,開業を〜,開業をする,to open a business
+開業,開業を〜,開業をめざす,to aim to open a business
+公開,公開を〜,公開を求める,to ask for public release
+公開,公開を〜,公開をする,to make public
+公開,公開を〜,公開を行う,to make something open to the public
+頁,〜の頁,次の頁,the next page
+頁,〜の頁,前の頁,the previous page
+頁,〜の頁,右の頁,the right page
+頁,〜頁,百頁,one hundred pages
+頁,〜頁,五頁,five pages
+頁,〜頁,十六頁,sixteen pages
+親,親の〜,親の反対,parent's opposition
+親,親の〜,親の心,"parent's heart, parent's feelings"
+親,親の〜,親の世代,parents' generation
+親,親が〜,親がする,the parent does
+親,親が〜,親がいる,to have parents
+親,親が〜,親がくれる,parent gives
+親,親に〜,親にもらう,to receive from a parent
+親,親に〜,親になる,to become a parent
+親,親に〜,親に言う,to say to a parent
+道路,道路に〜,道路にはみ出す,to protrude onto the road
+道路,道路に〜,道路に出る,"to go out on the road, to reach the road"
+道路,道路に〜,道路に立つ,to stand on the road
+道路,道路の〜,道路の中央,the center of the road
+道路,道路の〜,道路の雪,snow on the road
+道路,道路の〜,道路の向こう,other side of the road
+農民,農民の〜,農民のくらし,the life of peasants
+農民,農民の〜,農民の生活,life of a peasant
+農民,農民の〜,農民の土地,peasant land
+当て字,当て字を〜,当て字をする,to assign phonetic kanji
+当て字,当て字を〜,当て字を使う,to use phonetic kanji
+当て字,当て字を〜,当て字をえらぶ,to choose phonetic kanji
+私大,私大の〜,私大の学生,private university student
+私大,私大の〜,私大の女子,woman at a private university
+私大,私大の〜,私大の入試,entrance exam for a private university
+私大,私大に〜,私大に入学する,"to be admitted to a private university, to enroll in a private university"
+私大,私大に〜,私大に入る,"to get into a private university, to enter a private university"
+私大,私大に〜,私大に進む,to advance to a private university
+私鉄,私鉄の〜,私鉄の電車,private railway train
+私鉄,私鉄の〜,私鉄の会社,private railway company
+私鉄,私鉄の〜,私鉄のパス,private railway pass
+私鉄,〜の私鉄,他の私鉄,another private railway
+私鉄,〜の私鉄,地方の私鉄,regional private railway
+私鉄,〜の私鉄,今の私鉄,the current private railways
+部首,部首を〜,部首を学ぶ,to learn radicals
+部首,部首を〜,部首を教える,to teach radicals
+部首,部首を〜,部首をしらべる,to look up a radical
+線路,線路を〜,線路をまたぐ,to cross over a railway
+線路,線路を〜,線路を走る,to run on the railroad tracks
+線路,線路を〜,線路を歩く,to walk along the railroad track
+線路,線路の〜,線路の近く,near the railroad track
+線路,線路の〜,線路の向こう,on the other side of the railroad tracks
+線路,線路の〜,線路の下,underneath the railroad track
+読み方,〜の読み方,漢字の読み方,how to read kanji
+読み方,〜の読み方,本の読み方,how to read a book
+読み方,〜の読み方,名前の読み方,how to read a name
+読み方,読み方を〜,読み方を知る,to know how to read
+読み方,読み方を〜,読み方を聞く,to ask how to read something
+読み方,読み方を〜,読み方を教える,to teach how to read
+最近,最近〜,最近見る,to see recently
+最近,最近〜,最近多い,a lot recently
+最近,最近〜,最近思う,to think recently
+最近,最近の〜,最近のお気に入り,a recent favorite
+最近,最近の〜,最近の車,a recent car
+最近,最近の〜,最近の研究,recent research
+最近,最近まで〜,最近まで知らなかった,did not know until recently
+最近,最近まで〜,最近まで続いていた,was continuing until recently
+最近,最近まで〜,最近まであった,was there until recently
+研究所,〜研究所,科学研究所,science research institute
+研究所,〜研究所,文化研究所,cultural research institute
+研究所,〜研究所,医学研究所,medical laboratory
+研究所,研究所の〜,研究所の実験,laboratory experiment
+研究所,研究所の〜,研究所のスタッフ,laboratory staff
+研究所,研究所の〜,研究所の研究,laboratory's research
+研究所,研究所が〜,研究所がまとめる,the laboratory puts something together
+研究所,研究所が〜,研究所がある,there is a laboratory
+研究所,研究所が〜,研究所が行う,the laboratory carries out
+回転,〜回転,左回転,counterclockwise rotation
+回転,〜回転,三回転,three rotations
+回転,〜回転,フル回転,full rotation
+回転,回転〜,回転ずし,sushi served on a conveyor belt
+回転,回転〜,回転数,number of rotations
+回転,回転〜,回転ドア,revolving door
+回転,回転を〜,回転を止める,to stop rotation
+回転,回転を〜,回転をする,to rotate
+回転,回転を〜,回転をかける,to make rotate
+回転,〜の回転,エンジンの回転,engine rotation
+回転,〜の回転,頭の回転,how fast one can think
+回転,〜の回転,ボールの回転,ball rotation
+お酒,お酒を〜,お酒をたしなむ,"to like to drink alcohol every now and then, to drink just to be sociable"
+お酒,お酒を〜,お酒を買う,to buy alcohol
+お酒,お酒を〜,お酒を飲む,to drink alcohol
+サービス,サービスを〜,サービスを受ける,to receive a service
+サービス,サービスを〜,サービスを使う,to use a service
+サービス,サービスを〜,サービスをする,to provide services
+サービス,〜のサービス,他のサービス,other services
+サービス,〜のサービス,当社のサービス,our company's services
+サービス,〜のサービス,全てのサービス,all services
+近道,近道を〜,近道を教える,to tell someone about a shortcut
+近道,近道を〜,近道を通る,to pass through a shortcut
+近道,近道を〜,近道をする,to take a shortcut
+病気,〜の病気,自分の病気,one's own illness
+病気,〜の病気,他の病気,other illness
+病気,〜の病気,心の病気,mental illness
+病気,病気に〜,病気になる,to become sick
+病気,病気に〜,病気にかかる,to contract a disease
+病気,病気に〜,病気に負けない,"to not lose to illness, to not let illness get the better of oneself"
+病気,病気を〜,病気をうつす,to spread a disease to someone
+病気,病気を〜,病気をもらう,to contract a disease
+病気,病気を〜,病気をする,to get sick
+病気,病気の〜,病気のサイン,sign of illness
+病気,病気の〜,病気の話,talk of illness
+病気,病気の〜,病気の心配,concerns about illness
+病人,病人を〜,病人を運ぶ,to carry a sick person
+病人,病人を〜,病人を見る,to look at a sick person
+病人,病人を〜,病人を支える,to support a sick person
+病人,病人の〜,病人の顔,face of a sick person
+病人,病人の〜,病人の世話,care for a sick person
+病人,病人の〜,病人の心,heart of a sick person
+横,横を〜,横を向く,to face to the side
+横,横を〜,横を見る,to look to the side
+横,横を〜,横を通る,to pass next to
+横,横に〜,横にいる,"to be next to someone, to be next to something"
+横,横に〜,横にある,"to be next to someone, to be next to something"
+横,横に〜,横になる,to lie down
+横,横の〜,横の人,the person next to
+横,横の〜,横のつながり,horizontal connection
+横,横の〜,横のイス,the chair next to
+横,〜の横,車の横,beside the car
+横,〜の横,ベッドの横,beside the bed
+横,〜の横,ドアの横,beside the door
+歌手,歌手の〜,歌手の名前,singer's name
+歌手,歌手の〜,歌手のコンサート,singer's concert
+歌手,歌手の〜,歌手の歌,singer's song
+歌手,〜歌手,オペラ歌手,opera singer
+歌手,〜歌手,人気歌手,popular singer
+歌手,〜歌手,ロック歌手,rock singer
+解決,解決に〜,解決になる,to be a solution
+解決,解決に〜,解決にならない,to not be a solution
+解決,解決に〜,解決に向かう,to move toward a resolution
+解決,解決に〜,解決に取り組む,to get to work on a solution
+解決,解決に〜,解決につながる,to lead to a resolution
+解決,解決の〜,解決の糸口,first step toward a solution
+解決,解決の〜,解決の道,path to a solution
+解決,解決の〜,解決のヒント,hint to the solution
+歌,歌を〜,歌を歌う,to sing a song
+歌,歌を〜,歌を口ずさむ,"to sing to oneself, to hum a tune"
+歌,歌を〜,歌を作る,to compose a poem
+スペイン語,スペイン語の〜,スペイン語の発音,Spanish pronunciation
+スペイン語,スペイン語の〜,スペイン語のアクセント,Spanish accent
+スペイン語,スペイン語の〜,スペイン語のテキスト,Spanish textbook
+スペイン語,スペイン語を〜,スペイン語を教える,to teach Spanish
+スペイン語,スペイン語を〜,スペイン語を話す,to speak in Spanish
+スペイン語,スペイン語を〜,スペイン語を学ぶ,to learn Spanish
+速度,速度を〜,速度を出す,to pick up speed
+速度,速度を〜,速度を上げる,to raise the speed
+速度,速度を〜,速度をゆるめる,to slow down the speed
+速度,〜の速度,ボールの速度,the speed of the ball
+速度,〜の速度,光の速度,speed of light
+速度,〜の速度,車の速度,the speed of the car
+速度,速度が〜,速度が上がる,the speed increases
+速度,速度が〜,速度がアップする,the speed increases
+速度,速度が〜,速度が出る,the speed picks up
+立ち飲み,立ち飲みを〜,立ち飲みをする,to drink while standing
+立ち飲み,立ち飲みを〜,立ち飲みをしない,to not drink while standing
+立ち飲み,立ち飲みを〜,立ち飲みを楽しむ,to enjoy drinking while standing
+開始,〜開始,前売り開始,presale launch
+開始,〜開始,レンタル開始,start of rental
+開始,〜開始,発売開始,sale launch
+開始,開始を〜,開始をめざす,to aim for an opening
+開始,開始を〜,開始を早める,to move up the opening
+開始,開始を〜,開始をする,to start
+開始,開始の〜,開始のチャイム,opening chime
+開始,開始の〜,開始のお知らせ,announcing the start of something
+開始,開始の〜,開始の時間,start time
+話,話に〜,話になる,to become a certain topic in conversation
+話,話に〜,話に出る,to come up in conversation
+話,話に〜,話にならない,to be unworthy of discussion
+話,〜の話,しごとの話,talk about work
+話,〜の話,人の話,"other people's talk, talk about other people"
+話,〜の話,前の話,the previous story
+話,話が〜,話が出る,a topic of conversation comes up
+話,話が〜,話が出来る,to be able to talk
+話,話が〜,話がある,to have something to say to someone
+話,話を〜,話をする,to talk
+話,話を〜,話をもどす,to return to a prior point of discussion
+話,話を〜,話を聞く,to listen to what someone has to say
+鉄人,〜の鉄人,ワインの鉄人,iron man of wine
+鉄人,〜の鉄人,フレンチの鉄人,iron man of French cuisine
+鉄人,鉄人〜,鉄人２８号,Gigantor (anime)
+鉄人,鉄人〜,鉄人シェフ,Iron Chef
+主語,主語が〜,主語が大きい,large subject matter
+主語,主語が〜,主語が分かる,to know the subject
+主語,主語が〜,主語がある,something has a subject
+引き算,引き算を〜,引き算を学ぶ,to learn subtraction
+引き算,引き算を〜,引き算を教える,to teach subtraction
+引き算,引き算を〜,引き算をする,to do subtraction
+地下鉄,地下鉄に〜,地下鉄に乗る,to ride the subway
+地下鉄,地下鉄に〜,地下鉄に乗りかえる,to transfer to the subway
+地下鉄,地下鉄に〜,地下鉄に乗車する,to ride the subway
+地下鉄,地下鉄の〜,地下鉄のトンネル,subway tunnel
+地下鉄,地下鉄の〜,地下鉄のホーム,subway platform
+地下鉄,地下鉄の〜,地下鉄の入り口,entrance to the subway
+最高,〜最高,世界最高,best in the world
+最高,〜最高,シリーズ最高,best in a series
+最高,〜最高,人生最高,the best something in one's life
+最高,最高の〜,最高の形,best shape
+最高,最高の〜,最高の気分,feeling great
+最高,最高の〜,最高の思い出,the best memory
+一番目,一番目の〜,一番目の店,first shop
+一番目,一番目の〜,一番目の子,the first child
+一番目,一番目の〜,一番目のブログ記事,first blog post
+最も,最も〜,最も多い,the most numerous
+最も,最も〜,最も重要,the most important
+最も,最も〜,最も高い,the highest
+今朝,今朝の〜,今朝のニュース,the news this morning
+今朝,今朝の〜,今朝の新聞,this morning's newspaper
+今朝,今朝の〜,今朝の空,the sky this morning
+今朝,今朝は〜,今朝はさむい,this morning is cold
+今朝,今朝は〜,今朝はあたたかい,this morning is warm
+今朝,今朝は〜,今朝は早起きする,to wake up early this morning
+進む,〜が進む,研究が進む,the research advances
+進む,〜が進む,話が進む,the talks go forward
+進む,〜が進む,少子化が進む,the drop in birthrate progresses
+進む,〜に進む,前に進む,to advance forwards
+進む,〜に進む,この方向に進む,to advance in this direction
+進む,〜に進む,先に進む,to advance ahead
+タバコ,タバコを〜,タバコをやめる,to quit smoking
+タバコ,タバコを〜,タバコをふかす,to smoke a cigarette
+タバコ,タバコを〜,タバコを買う,to buy cigarettes
+タバコ,タバコの〜,タバコの先,the tip of a cigarette
+タバコ,タバコの〜,タバコの火,cigarette lighter
+タバコ,タバコの〜,タバコのにおい,the smell of cigarettes
+タバコ,〜タバコ,パイプタバコ,pipe tobacco
+タバコ,〜タバコ,電子タバコ,an electronic cigarette
+タバコ,〜タバコ,歩きタバコ,smoking while walking
+始める,〜から始める,すきなところから始める,to start from where one likes
+始める,〜から始める,２０００年から始める,to start from the year 2000
+始める,〜から始める,できることから始める,to start with what one can do
+始める,〜を始める,作業を始める,to start work
+始める,〜を始める,生活を始める,to start a life
+始める,〜を始める,話を始める,to begin speaking
+助かる,〜で助かる,休みで助かる,to find it helpful to have the day off
+助かる,〜で助かる,これで助かる,this will help
+助かる,〜で助かる,おかげで助かる,will be saved thanks to someone
+助かる,〜助かる,なんとか助かる,to somehow be saved
+助かる,〜助かる,とても助かる,to find something greatly helpful
+助かる,〜助かる,きっと助かる,to probably be saved
+助かる,〜は助かる,今日は助かる,to find very helpful today
+助かる,〜は助かる,自分は助かる,I will be saved
+助かる,〜は助かる,村は助かる,the village will be saved
+点く,〜が点く,明かりが点く,the light turns on
+点く,〜が点く,電気が点く,the light turns on
+点く,〜が点く,ライトが点く,the light turns on
+映る,〜に映る,テレビに映る,to be seen on TV
+映る,〜に映る,目に映る,"to see, to be reflected in someone's eyes"
+映る,〜に映る,かがみに映る,to be reflected in the mirror
+映る,〜が映る,顔が映る,someone's face is reflected
+映る,〜が映る,すがたが映る,someone's image is reflected
+映る,〜が映る,テレビが映る,the TV turns on
+化かす,〜を化かす,人々を化かす,"to bewitch people, to deceive people"
+化かす,〜を化かす,村人を化かす,"to bewitch villagers, to deceive villagers"
+化かす,〜を化かす,人を化かす,"to bewitch a person, to deceive a person"
+運ぶ,〜を運ぶ,食事を運ぶ,to carry a meal
+運ぶ,〜を運ぶ,足を運ぶ,"to go, to come"
+運ぶ,〜を運ぶ,コーヒーを運ぶ,to carry coffee
+運ぶ,〜に運ぶ,イベントがスムーズに運ぶ,an event runs smoothly
+運ぶ,〜に運ぶ,病院に運ぶ,to carry to the hospital
+運ぶ,〜に運ぶ,口に運ぶ,to carry to one's mouth
+集める,〜に集める,一カ所に集める,to gather in one place
+集める,〜に集める,一つに集める,to gather into one
+集める,〜に集める,そこに集める,to gather there
+集める,〜を集める,お金を集める,to gather money
+集める,〜を集める,人気を集める,to gain popularity
+集める,〜を集める,データを集める,to collect data
+決定する,〜が決定する,日時が決定する,the date and time are decided
+決定する,〜が決定する,プランが決定する,the plan is decided
+決定する,〜が決定する,市長が決定する,the mayor decides
+決定する,〜を決定する,日時を決定する,to decide the date and time
+決定する,〜を決定する,プランを決定する,to decide on a plan
+決定する,〜を決定する,全てを決定する,to decide everything
+決める,〜を決める,ルールを決める,to decide on the rules
+決める,〜を決める,時間を決める,to decide on the time
+決める,〜を決める,テーマを決める,to decide a theme
+決める,〜に決める,行くことに決める,to decide to go
+決める,〜に決める,心に決める,to set one's heart on
+決める,〜に決める,自由に決める,to freely decide
+配る,〜を配る,目を配る,to keep a watchful eye on someone
+配る,〜を配る,気を配る,to be attentive
+配る,〜を配る,カードを配る,to distribute cards
+配る,〜に配る,辺りに配る,to distribute around
+配る,〜に配る,人に配る,to distribute to people
+配る,〜に配る,みんなに配る,to distribute to everyone
+飲む,〜を飲む,酒を飲む,to drink alcohol
+飲む,〜を飲む,水を飲む,to drink water
+飲む,〜を飲む,コーヒーを飲む,to drink coffee
+飲む,〜に飲む,いっしょに飲む,to drink together
+飲む,〜に飲む,一気に飲む,to drink in one gulp
+飲む,〜に飲む,代わりに飲む,to drink instead
+運転する,〜を運転する,トラックを運転する,to drive a truck
+運転する,〜を運転する,車を運転する,to drive a car
+運転する,〜を運転する,自転車を運転する,to drive a bicycle
+終わる,〜が終わる,食事が終わる,to finish a meal
+終わる,〜が終わる,しごとが終わる,"work ends, a job is finished"
+終わる,〜が終わる,話が終わる,"conversation ends, story ends"
+終わる,〜で終わる,これで終わる,that is all
+終わる,〜で終わる,今日で終わる,to end today
+終わる,〜で終わる,以上で終わる,that is all
+終わる,〜は終わる,時代は終わる,generation ends
+終わる,〜は終わる,話は終わる,"conversation ends, story ends"
+終わる,〜は終わる,しごとは終わる,work ends
+楽しむ,〜を楽しむ,生活を楽しむ,to enjoy one's life
+楽しむ,〜を楽しむ,人生を楽しむ,to enjoy life
+楽しむ,〜を楽しむ,会話を楽しむ,to enjoy conversation
+楽しむ,〜で楽しむ,親子で楽しむ,to enjoy as parents and children
+楽しむ,〜で楽しむ,みんなで楽しむ,everyone enjoys
+楽しむ,〜で楽しむ,二人で楽しむ,to enjoy together
+落ちる,〜が落ちる,日が落ちる,the sun goes down
+落ちる,〜が落ちる,力が落ちる,to lose strength
+落ちる,〜が落ちる,葉が落ちる,"the leaf falls, to become leafless"
+落ちる,〜に落ちる,海に落ちる,to fall into the ocean
+落ちる,〜に落ちる,下に落ちる,to fall below
+落ちる,〜に落ちる,上に落ちる,to fall on top of something
+病む,〜が病む,母が病む,one's mother falls ill
+病む,〜が病む,心が病む,to become mentally ill
+病む,〜が病む,自分が病む,to fall ill
+病む,〜を病む,心を病む,to have mental illness
+病む,〜に病む,気に病む,"to be anxious about something, to weigh heavily on one's mind"
+乗せる,〜に乗せる,上に乗せる,to place on top of something
+乗せる,〜に乗せる,車に乗せる,"to give someone a ride, to load something in a car"
+乗せる,〜に乗せる,バスに乗せる,to put someone on a bus
+乗せる,〜を乗せる,足を乗せる,to place one's foot on something
+乗せる,〜を乗せる,手を乗せる,to place one's hand on something
+乗せる,〜を乗せる,人を乗せる,"to take people on board, to give a person a ride"
+聞く,〜に聞く,人に聞く,to ask a person
+聞く,〜に聞く,先生に聞く,to ask a teacher
+聞く,〜に聞く,森さんに聞く,to ask Mrs. Mori
+聞く,〜を聞く,名前を聞く,to ask for someone's name
+聞く,〜を聞く,話を聞く,to listen to what someone has to say
+聞く,〜を聞く,声を聞く,to hear a voice
+調べる,〜を調べる,カレーの事を調べる,to research curry
+調べる,〜を調べる,それを調べる,to research that
+調べる,〜を調べる,番号を調べる,to look up the number
+調べる,〜で調べる,本で調べる,to look up in a book
+調べる,〜で調べる,ネットで調べる,to research on the Internet
+調べる,〜で調べる,自分で調べる,to do one's own research
+習う,〜を習う,ダンスを習う,to take dance lessons
+習う,〜を習う,バイオリンを習う,to take violin lessons
+習う,〜を習う,ピアノを習う,to learn piano
+習う,〜で習う,小学校で習う,to learn in elementary school
+習う,〜で習う,三年生で習う,to learn as a third year student
+習う,〜で習う,学校で習う,to learn at school
+教わる,〜を教わる,やり方を教わる,to learn how to do something from someone
+教わる,〜を教わる,テクニックを教わる,to learn a technique from someone
+教わる,〜を教わる,マナーを教わる,to learn manners from someone
+教わる,〜に教わる,先生に教わる,to learn something from a teacher
+教わる,〜に教わる,プロに教わる,to learn something from a professional
+教わる,〜に教わる,母に教わる,to learn something from your mother
+教わる,〜に教わる,休み時間に教わる,to learn something during one's break
+教わる,〜から教わる,先生から教わる,to learn something from a teacher
+教わる,〜から教わる,父から教わる,to learn something from your father
+教わる,〜から教わる,他人から教わる,to learn something from others
+教わる,〜から教わる,友人から教わる,to learn something from a friend
+去る,〜を去る,この世を去る,to depart from this world
+去る,〜を去る,東京を去る,to leave Tokyo
+去る,〜を去る,その場を去る,"to leave a place, to leave a situation"
+去る,〜が去る,ブームが去る,the trend fades
+去る,〜が去る,人が去る,a person departs
+去る,〜が去る,台風が去る,the typhoon passes
+鳴く,〜が鳴く,ネコが鳴く,a cat meows
+鳴く,〜が鳴く,鳥が鳴く,a bird chirps
+鳴く,〜が鳴く,虫が鳴く,the insects chirp
+出会う,〜に出会う,その時に出会う,to meet by chance at that time
+出会う,〜に出会う,人に出会う,to meet a person by chance
+出会う,〜に出会う,本に出会う,to encounter a book
+出会う,〜と出会う,あなたと出会う,to meet you by chance
+出会う,〜と出会う,人と出会う,to meet a person by chance
+出会う,〜と出会う,本と出会う,to encounter a book
+出会う,〜で出会う,道で出会う,to meet by chance in the street
+出会う,〜で出会う,町で出会う,to meet by chance in town
+出会う,〜で出会う,学校で出会う,to meet by chance at school
+口調,〜口調,きつい口調,harsh tone
+口調,〜口調,やさしい口調,kind tone
+口調,〜口調,強い口調,forceful tone
+口調,口調が〜,口調がきつい,tone is harsh
+口調,口調が〜,口調が強い,tone is forceful
+口調,口調が〜,口調がかわる,the tone changes
+開ける,〜を開ける,戸を開ける,to open the door
+開ける,〜を開ける,目を開ける,to open one's eyes
+開ける,〜を開ける,ドアを開ける,to open a door
+読む,〜を読む,本を読む,to read a book
+読む,〜を読む,新聞を読む,to read the newspaper
+読む,〜を読む,記事を読む,to read an article
+代える,〜を代える,ことばを代える,to use different words
+代える,〜を代える,水を代える,to replace the water
+代える,〜を代える,ピッチャーを代える,to replace the pitcher
+代える,〜に代える,これに代える,to substitute with this
+代える,〜に代える,ちがうものに代える,to replace with a different thing
+転がる,〜が転がる,ボールが転がる,a ball rolls
+転がる,〜が転がる,石が転がる,a rock rolls
+転がる,〜が転がる,ビー玉が転がる,a bead rolls
+転がる,〜に転がる,目の前に転がる,to roll in front of one's eyes
+転がる,〜に転がる,ベッドの上に転がる,to roll over on the bed
+転がる,〜に転がる,足元に転がる,to roll at one's feet
+売れる,〜が売れる,名が売れる,to be well-known
+売れる,〜が売れる,アイドルが売れる,an idol is popular
+売れる,〜が売れる,本が売れる,the book sells
+語る,〜を語る,思い出を語る,to talk about memories
+語る,〜を語る,理由を語る,to give a reason
+語る,〜を語る,自分を語る,to talk about oneself
+語る,〜に語る,正直に語る,to speak honestly
+語る,〜に語る,私に語る,to talk to me
+語る,〜に語る,楽しそうに語る,to talk with apparent happiness
+投げ付ける,〜に投げ付ける,かべに投げ付ける,to throw something at a wall
+投げ付ける,〜に投げ付ける,人に投げ付ける,to throw something at a person
+投げ付ける,〜に投げ付ける,車に投げ付ける,to throw something at a car
+投げ付ける,〜を投げ付ける,物を投げ付ける,to throw something at
+投げ付ける,〜を投げ付ける,玉を投げ付ける,to hurl a ball at something
+投げ付ける,〜を投げ付ける,ゴミを投げ付ける,to throw trash at
+起きる,〜に起きる,一九三八年に起きる,to happen in 1938
+起きる,〜に起きる,何時に起きる,What time do you wake up?
+起きる,〜に起きる,六時に起きる,to wake up at six o'clock
+起きる,〜が起きる,やる気が起きる,motivation arises
+起きる,〜が起きる,火事が起きる,a fire occurs
+起きる,〜が起きる,トラブルが起きる,trouble occurs
+求める,〜に求める,国に求める,to ask the government
+求める,〜に求める,日本に求める,to want something from Japan
+求める,〜に求める,相手に求める,"to want something from a partner, to ask a partner for something"
+求める,〜を求める,何を求める,What does someone want?
+求める,〜を求める,助けを求める,to ask for help
+求める,〜を求める,アドバイスを求める,to seek advice
+役場,〜役場,市町村役場,municipal town hall
+役場,〜役場,町役場,town hall
+役場,〜役場,同じ役場,the same town hall
+役場,役場に〜,役場に行く,to go to town hall
+役場,役場に〜,役場にいる,to be at the town hall
+役場,役場に〜,役場に出す,to submit to town hall
+転送,〜転送,ファイル転送,file transfer
+転送,〜転送,メール転送,email forwarding
+転送,〜転送,データ転送,data transfer
+転送,転送〜,転送スピード,transfer speed
+転送,転送〜,転送メール,forwarded email
+転送,転送〜,転送速度,transfer speed
+転送,〜の転送,データの転送,transferring data
+転送,〜の転送,メールの転送,forwarding email
+転送,〜の転送,ファイルの転送,file transfer
+思わず,思わず〜,思わず見る,to look without thinking
+思わず,思わず〜,思わず言う,to say without thinking
+思わず,思わず〜,思わずつぶやく,"to mutter without thinking, to tweet without thinking (Twitter)"
+とても,とても〜,とてもうれしい,very happy
+とても,とても〜,とても分かる,"to be very understandable, to understand very well"
+とても,とても〜,とても大切,very important
+作業,作業を〜,作業を開始する,to start work
+作業,作業を〜,作業を行う,to carry out work
+作業,作業を〜,作業をする,to do work
+作業,作業に〜,作業に当たる,to undertake a task
+作業,作業に〜,作業に入る,to start working
+作業,作業に〜,作業にかかる,to start on work
