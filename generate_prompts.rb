@@ -38,7 +38,7 @@ def main(url)
   reading = doc.css('.subject-section--reading').children.map { _1.text.strip }.map { join_with_condensed_blanks(_1.split("\n").map(&:strip), separator: "\n") }.select(&:present?)
 
   "
-#{PROMPT}
+#{PROMPT.gsub("the following kanji", "the #{header} kanji")}
 
 #{header}
 
