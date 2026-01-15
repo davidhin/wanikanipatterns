@@ -62,7 +62,7 @@ def main_radical(url)
 #{PROMPT.gsub('the following kanji', "the #{header} kanji")}
 #{header}
 #{meaning.join("\n")}
-  "
+"
 end
 
 if __FILE__ == $PROGRAM_NAME
