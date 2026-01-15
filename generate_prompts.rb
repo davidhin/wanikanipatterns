@@ -38,7 +38,7 @@ def main(url)
   reading = doc.css('.subject-section--reading').children.map { _1.text.strip }.map { join_with_condensed_blanks(_1.split("\n").map(&:strip), separator: "\n") }.select(&:present?)
 
   "
-#{PROMPT.gsub("the following kanji", "the #{header} kanji")}
+#{PROMPT.gsub('the following kanji', "the #{header} kanji")}
 
 #{header}
 
@@ -51,12 +51,34 @@ The kanji is composed of three radicals. Can you see where the radicals fit in t
 "
 end
 
+def main_radical(url)
+  html = URI.open(url, 'User-Agent' => USER_AGENT).read
+  doc  = Nokogiri::HTML(html)
+
+  header = doc.css('.page-header').text.split.join(' ')
+  meaning = doc.css('.subject-section__subsection').children.map { _1.text.strip }.map { join_with_condensed_blanks(_1.split("\n").map(&:strip), separator: "\n") }.select(&:present?)
+
+  "
+#{PROMPT.gsub('the following kanji', "the #{header} kanji")}
+#{header}
+#{meaning.join("\n")}
+  "
+end
+
 if __FILE__ == $PROGRAM_NAME
   level = ARGV.first || 1
   html = URI.open("https://www.wanikani.com/level/#{level}", 'User-Agent' => USER_AGENT).read
   doc  = Nokogiri::HTML(html)
-  urls = doc.css('.subject-character--kanji').map { _1['href'] }
   rows = []
+
+  radical_urls = doc.css('.subject-character--radical').map { _1['href'] }
+  radical_urls.each_with_index do |url, i|
+    data = main_radical(url)
+    rows.append(data)
+    pp "Completed: #{i + 1}/#{radical_urls.size}"
+  end
+
+  urls = doc.css('.subject-character--kanji').map { _1['href'] }
   urls.each_with_index do |url, i|
     data = main(url)
     rows.append(data)
