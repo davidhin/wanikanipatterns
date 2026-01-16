@@ -66,25 +66,30 @@ def main_radical(url)
 end
 
 if __FILE__ == $PROGRAM_NAME
-  level = ARGV.first || 1
-  html = URI.open("https://www.wanikani.com/level/#{level}", 'User-Agent' => USER_AGENT).read
-  doc  = Nokogiri::HTML(html)
-  rows = []
+  ARGV.first || 1
 
-  radical_urls = doc.css('.subject-character--radical').map { _1['href'] }
-  radical_urls.each_with_index do |url, i|
-    data = main_radical(url)
-    rows.append(data)
-    pp "Completed: #{i + 1}/#{radical_urls.size}"
+  levels = (1..60).to_a
+  levels.each do |level|
+    pp "Processing level #{level}"
+    html = URI.open("https://www.wanikani.com/level/#{level}", 'User-Agent' => USER_AGENT).read
+    doc  = Nokogiri::HTML(html)
+    rows = []
+
+    radical_urls = doc.css('.subject-character--radical').map { _1['href'] }
+    radical_urls.each_with_index do |url, i|
+      data = main_radical(url)
+      rows.append(data)
+      pp "Completed: #{i + 1}/#{radical_urls.size}"
+    end
+
+    urls = doc.css('.subject-character--kanji').map { _1['href'] }
+    urls.each_with_index do |url, i|
+      data = main(url)
+      rows.append(data)
+      pp "Completed: #{i + 1}/#{urls.size}"
+    end
+
+    # Write rows to txt file
+    File.write("prompts_#{level}.txt", rows.join("\n------------------------------------------------------------------\n"))
   end
-
-  urls = doc.css('.subject-character--kanji').map { _1['href'] }
-  urls.each_with_index do |url, i|
-    data = main(url)
-    rows.append(data)
-    pp "Completed: #{i + 1}/#{urls.size}"
-  end
-
-  # Write rows to txt file
-  File.write("prompts_#{level}.txt", rows.join("\n------------------------------------------------------------------\n"))
 end

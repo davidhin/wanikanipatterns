@@ -4,8 +4,8 @@ Please help me create a picture to help me remember the 刃 Blade kanji. It uses
 Display the kanji on the top with its meaning, then a picture that is a combined representation of the meaning and reading mnemonic.
 Include excerpts of the mnemonic text throughout the image.
 
-  刃 Blade
-  Primary
+刃 Blade
+Primary
 Blade
 Mnemonic
 You have a sword that has a drop of something on it. That drop is a drop of blood. Sure, a sword will cut someone to spill some blood, but all you really need is any kind of blade to cut someone. Sword, knife, whatever, as long as it's a blade.
@@ -17,8 +17,8 @@ Please help me create a picture to help me remember the 半 Half kanji. It uses 
 Display the kanji on the top with its meaning, then a picture that is a combined representation of the meaning and reading mnemonic.
 Include excerpts of the mnemonic text throughout the image.
 
-  半 Half
-  Primary
+半 Half
+Primary
 Half
 Mnemonic
 This radical is the same as the kanji. It means half.
@@ -30,8 +30,8 @@ Please help me create a picture to help me remember the 啇 Mohawk kanji. It use
 Display the kanji on the top with its meaning, then a picture that is a combined representation of the meaning and reading mnemonic.
 Include excerpts of the mnemonic text throughout the image.
 
-  啇 Mohawk
-  Primary
+啇 Mohawk
+Primary
 Mohawk
 Mnemonic
 You have something old on your head that's standing up. What is this thing? An awesome mohawk. You've had it so long it's looking pretty old... but still awesome.
@@ -43,8 +43,8 @@ Please help me create a picture to help me remember the 次 Next kanji. It uses 
 Display the kanji on the top with its meaning, then a picture that is a combined representation of the meaning and reading mnemonic.
 Include excerpts of the mnemonic text throughout the image.
 
-  次 Next
-  Primary
+次 Next
+Primary
 Next
 Mnemonic
 This radical is the same as the kanji. It means next.
@@ -56,8 +56,8 @@ Please help me create a picture to help me remember the 番 Number kanji. It use
 Display the kanji on the top with its meaning, then a picture that is a combined representation of the meaning and reading mnemonic.
 Include excerpts of the mnemonic text throughout the image.
 
-  番 Number
-  Primary
+番 Number
+Primary
 Number
 Mnemonic
 This radical is the same as the kanji, but "number in a series" is too long. Let's shorten it to number.
@@ -69,8 +69,8 @@ Please help me create a picture to help me remember the 斉 Simultaneous kanji. 
 Display the kanji on the top with its meaning, then a picture that is a combined representation of the meaning and reading mnemonic.
 Include excerpts of the mnemonic text throughout the image.
 
-  斉 Simultaneous
-  Primary
+斉 Simultaneous
+Primary
 Simultaneous
 Mnemonic
 If you're writing while looking at the moon, you can bet someone else is doing it too. People have a habit of looking at the moon simultaneously.
@@ -82,8 +82,8 @@ Please help me create a picture to help me remember the 矛 Spear kanji. It uses
 Display the kanji on the top with its meaning, then a picture that is a combined representation of the meaning and reading mnemonic.
 Include excerpts of the mnemonic text throughout the image.
 
-  矛 Spear
-  Primary
+矛 Spear
+Primary
 Spear
 Mnemonic
 Your mama is carrying some kind of elaborate weapon. You look closely and see that it's a spear. The pointy end is to the right, and there are some decorations hanging off it. It's a very fancy spear, and you wonder where your mama got it.

@@ -4,8 +4,8 @@ Please help me create a picture to help me remember the 能 Ability kanji. It us
 Display the kanji on the top with its meaning, then a picture that is a combined representation of the meaning and reading mnemonic.
 Include excerpts of the mnemonic text throughout the image.
 
-  能 Ability
-  Primary
+能 Ability
+Primary
 Ability
 Mnemonic
 This radical is the same as the kanji. It means ability.
@@ -17,8 +17,8 @@ Please help me create a picture to help me remember the 充 Allocate kanji. It u
 Display the kanji on the top with its meaning, then a picture that is a combined representation of the meaning and reading mnemonic.
 Include excerpts of the mnemonic text throughout the image.
 
-  充 Allocate
-  Primary
+充 Allocate
+Primary
 Allocate
 Mnemonic
 You have some legs and you need to put them in the trash. But you'll get caught if you put them in one trash can. Quick, cut them up and allocate them to different trash cans around the city. Then you'll never get caught.
@@ -30,8 +30,8 @@ Please help me create a picture to help me remember the 呂 Bathtub kanji. It us
 Display the kanji on the top with its meaning, then a picture that is a combined representation of the meaning and reading mnemonic.
 Include excerpts of the mnemonic text throughout the image.
 
-  呂 Bathtub
-  Primary
+呂 Bathtub
+Primary
 Bathtub
 Mnemonic
 See the dude sitting inside the box? His head is sticking out the top. That's a bathtub he's sitting in.
@@ -43,8 +43,8 @@ Please help me create a picture to help me remember the 安 Cheap kanji. It uses
 Display the kanji on the top with its meaning, then a picture that is a combined representation of the meaning and reading mnemonic.
 Include excerpts of the mnemonic text throughout the image.
 
-  安 Cheap
-  Primary
+安 Cheap
+Primary
 Cheap
 Mnemonic
 This radical is the same as the kanji. It means cheap.
@@ -56,8 +56,8 @@ Please help me create a picture to help me remember the 衣 Clothes kanji. It us
 Display the kanji on the top with its meaning, then a picture that is a combined representation of the meaning and reading mnemonic.
 Include excerpts of the mnemonic text throughout the image.
 
-  衣 Clothes
-  Primary
+衣 Clothes
+Primary
 Clothes
 Mnemonic
 You just have to know what’s under these locked lids, so you kick them until they break open to reveal a whole bunch of… clothes. “Wow, free clothes!” you think, just as airport security arrive to take you away.
@@ -70,8 +70,8 @@ Please help me create a picture to help me remember the 弗 Dollar kanji. It use
 Display the kanji on the top with its meaning, then a picture that is a combined representation of the meaning and reading mnemonic.
 Include excerpts of the mnemonic text throughout the image.
 
-  弗 Dollar
-  Primary
+弗 Dollar
+Primary
 Dollar
 Mnemonic
 This is a squiggle with two lines through it. Hmmm doesn't that seem familiar? It should, because it's the dollar symbol: $. Well, close enough. Just look at this and think, ah yes, a totally normal American dollar.
@@ -83,8 +83,8 @@ Please help me create a picture to help me remember the 爰 Football kanji. It u
 Display the kanji on the top with its meaning, then a picture that is a combined representation of the meaning and reading mnemonic.
 Include excerpts of the mnemonic text throughout the image.
 
-  爰 Football
-  Primary
+爰 Football
+Primary
 Football
 Mnemonic
 Your friend is on the ground and you step on him with your cleat. There is no friendship here. This is a true sport you're playing. This is football.
@@ -96,8 +96,8 @@ Please help me create a picture to help me remember the 丬 Icicle kanji. It use
 Display the kanji on the top with its meaning, then a picture that is a combined representation of the meaning and reading mnemonic.
 Include excerpts of the mnemonic text throughout the image.
 
-  丬 Icicle
-  Primary
+丬 Icicle
+Primary
 Icicle
 Mnemonic
 This ice is in the shape of a stick. It's an icicle!
@@ -109,8 +109,8 @@ Please help me create a picture to help me remember the 平 Peace kanji. It uses
 Display the kanji on the top with its meaning, then a picture that is a combined representation of the meaning and reading mnemonic.
 Include excerpts of the mnemonic text throughout the image.
 
-  平 Peace
-  Primary
+平 Peace
+Primary
 Peace
 Mnemonic
 This radical is the same as the kanji. It means peace.
@@ -122,8 +122,8 @@ Please help me create a picture to help me remember the 巩 Saw kanji. It uses m
 Display the kanji on the top with its meaning, then a picture that is a combined representation of the meaning and reading mnemonic.
 Include excerpts of the mnemonic text throughout the image.
 
-  巩 Saw
-  Primary
+巩 Saw
+Primary
 Saw
 Mnemonic
 You're constructing a table. On the table is a drop of blood, which is your blood. This is from cutting yourself on the saw that you're using to make the table. Imagine yourself cutting yourself with the saw by accident. Ouch!
